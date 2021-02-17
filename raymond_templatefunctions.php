@@ -1,5 +1,5 @@
 <?php
-class PMSDatabase
+class DBController
 {
     private $sqlQuery;
     private $DBServer;
